@@ -1,7 +1,5 @@
 # Emotion-Recognition-System
 
-# Emotion Recognition using MFCC and Prosody Features
-
 ## Overview
 This project develops a machine learning system for accurately recognizing human emotions from speech signals using the EmoDB (German emotional speech corpus) dataset. The system leverages multi-level acoustic features extracted at utterance, word, and syllable levels to classify speech into seven distinct emotional states: anger, boredom, anxiety, happiness, sadness, disgust, and neutral.
 
