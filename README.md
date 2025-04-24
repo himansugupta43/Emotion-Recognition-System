@@ -101,5 +101,6 @@ We analyzed spectrograms and pitch patterns across different emotions:
 - "Analyzing the Impact of Prosodic Feature (Pitch) on Learning Classifiers for Speech Emotion Corpus" - Syed Abbas Ali, Anas Khan, & Nazia Bashir (NED University)
 
 ## Team
-- Vedant Nipane (2021102040)
 - Himanshu Gupta (2022102002)
+- Vedant Nipane (2021102040)
+
